@@ -7,7 +7,7 @@ category: dimmer
 type: ['module','dimmer']
 supports: on/off, brightness
 zigbeemodel: ['CH/DIMMER/1']
-compatible: [z2m]
+compatible: [z2m,zha]
 z2m: 41EPBDWCLMZ/354PBDMBTZ
 mlink: https://www.clipsal.com/products/detail?CatNo=41EPBDWCLM&itemno=41EPBDWCLM-VW&tab-document-1=0
 link: 
